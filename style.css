@@ -1,0 +1,14 @@
+body {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 25%;
+    color: rgb(250, 248, 248);
+    background-color: black;
+    padding: 25px;
+    font-size: larger;
+}
